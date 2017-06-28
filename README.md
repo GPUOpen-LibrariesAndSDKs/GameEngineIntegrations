@@ -4,6 +4,14 @@ We will be providing example integrations of various GPUOpen technologies into g
 
 ---
 
+### Unity
+We have created a repository with examples that demonstrate Unity&reg; integrations for some of the libraries and SDKs available on GPUOpen.
+
+#### Unity integrations
+* [UnityIntegrations](https://github.com/GPUOpen-LibrariesAndSDKs/UnityIntegrations)
+
+---
+
 ### Unreal Engine
 We have created a fork of Unreal&reg; Engine to provide example UE4 integrations for some of the libraries and SDKs available on GPUOpen.
 
@@ -24,4 +32,5 @@ We have created a fork of Unreal&reg; Engine to provide example UE4 integrations
 ---
 
 ### Attribution
+- Unity is a trademark of Unity Technologies.
 - Unreal is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
