@@ -21,7 +21,10 @@ We have created a fork of Unreal&reg; Engine to provide example UE4 integrations
 * [LiquidVR MGPU](https://github.com/GPUOpenSoftware/UnrealEngine/tree/LiquidVR-MGPU)
 
 #### UE4 plugins
-* [AmfMedia](https://github.com/GPUOpenSoftware/UnrealEngine/tree/AmfMedia)
+There are 3 branches of the AmfMedia plugin:
+* [AmfMedia-4.15](https://github.com/GPUOpenSoftware/UnrealEngine/tree/AmfMedia-4.15)
+* [AmfMedia-4.16](https://github.com/GPUOpenSoftware/UnrealEngine/tree/AmfMedia-4.16)
+* [AmfMedia-4.17](https://github.com/GPUOpenSoftware/UnrealEngine/tree/AmfMedia-4.17)
 
 #### Instructions
 * To access the fork and its various branches, you will first need access to [Epic's Unreal Engine repo](https://github.com/EpicGames/UnrealEngine).
