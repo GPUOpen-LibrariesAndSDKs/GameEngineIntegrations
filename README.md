@@ -1,6 +1,6 @@
 # GPUOpen Game Engine Integrations
 
-We will be providing example integrations of various GPUOpen technologies into game engines. These example integrations can help jumpstart your own integration of these features into your game or VR title.
+We will be providing example integrations of various GPUOpen technologies into game engines. These example integrations can help jumpstart your own integration of these features into your software.  Applicable software includes either games, VR titles or pro applications.
 
 ---
 
