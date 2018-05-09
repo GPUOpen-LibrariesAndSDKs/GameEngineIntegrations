@@ -27,6 +27,9 @@ There are 4 branches of the AmfMedia plugin:
 * [AmfMedia-4.17](https://github.com/GPUOpenSoftware/UnrealEngine/tree/AmfMedia-4.17)
 * [AmfMedia-4.18](https://github.com/GPUOpenSoftware/UnrealEngine/tree/AmfMedia-4.18)
 
+There is 1 branch of the AmfStitchMedia plugin:
+* [AmfStitchMedia-4.18](https://github.com/GPUOpenSoftware/UnrealEngine/tree/AmfStitchMedia-4.18)
+
 #### Instructions
 * To access the fork and its various branches, you will first need access to [Epic's Unreal Engine repo](https://github.com/EpicGames/UnrealEngine).
   * See [Epic's signup information](https://github.com/EpicGames/Signup) on GitHub for instructions.
