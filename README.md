@@ -48,8 +48,10 @@ There is 1 branch of the AmfMediaChromakey plugin:
 There is 1 branch of the TressFX plugin:
 * [TressFX-4.22](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.22)
 
-There is 1 branch of the FidelityFX CAS plugin:
+There is 2 branches of the FidelityFX CAS plugin:
 * [FidelityFXCAS-4.23](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.23)
+* [FidelityFXCAS-4.24](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.24)
+
 
 #### Instructions
 * To access the fork and its various branches, you will first need access to [Epic's Unreal Engine repo](https://github.com/EpicGames/UnrealEngine).
