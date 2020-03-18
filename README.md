@@ -45,8 +45,10 @@ There is 2 branch of the FEMFX plugin:
 There is 1 branch of the AmfMediaChromakey plugin:
 * [AmfMediaCrhomakey-4.22](https://github.com/GPUOpenSoftware/UnrealEngine/tree/AmfMediaChromakey-4.22)
 
-There is 1 branch of the TressFX plugin:
+There are 3 branches of the TressFX plugin:
 * [TressFX-4.22](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.22)
+* [TressFX-4.23](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.23)
+* [TressFX-4.24](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.24)
 
 There is 2 branches of the FidelityFX CAS plugin:
 * [FidelityFXCAS-4.23](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.23)
