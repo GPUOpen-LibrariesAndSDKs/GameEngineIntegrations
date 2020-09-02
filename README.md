@@ -54,6 +54,8 @@ There is 2 branches of the FidelityFX CAS plugin:
 * [FidelityFXCAS-4.23](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.23)
 * [FidelityFXCAS-4.24](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.24)
 
+There is 1 branches of the FidelityFX LPM plugin:
+* [FidelityFXLPM-4.25.1](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXLPM-4.25.1)
 
 #### Instructions
 * To access the fork and its various branches, you will first need access to [Epic's Unreal Engine repo](https://github.com/EpicGames/UnrealEngine).
