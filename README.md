@@ -57,6 +57,9 @@ There is 2 branches of the FidelityFX CAS plugin:
 There is 1 branches of the FidelityFX LPM plugin:
 * [FidelityFXLPM-4.25.1](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXLPM-4.25.1)
 
+There is 1 branches of the FidelityFX SPD plugin:
+* [FidelityFXSPD-4.25.3](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXSPD-4.25.3)
+
 #### Instructions
 * To access the fork and its various branches, you will first need access to [Epic's Unreal Engine repo](https://github.com/EpicGames/UnrealEngine).
   * See [Epic's signup information](https://github.com/EpicGames/Signup) on GitHub for instructions.
