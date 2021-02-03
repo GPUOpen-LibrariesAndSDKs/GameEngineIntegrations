@@ -49,16 +49,25 @@ There are 3 branches of the TressFX plugin:
 * [TressFX-4.22](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.22)
 * [TressFX-4.23](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.23)
 * [TressFX-4.24](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.24)
+* [TressFX-4.25](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.25)
+* [TressFX-4.26](https://github.com/GPUOpenSoftware/UnrealEngine/tree/TressFX-4.26)
 
 There is 2 branches of the FidelityFX CAS plugin:
 * [FidelityFXCAS-4.23](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.23)
 * [FidelityFXCAS-4.24](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.24)
+* [FidelityFXCAS-4.25](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.25.1)
+* [FidelityFXCAS-4.26](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXCAS-4.26)
 
 There is 1 branches of the FidelityFX LPM plugin:
 * [FidelityFXLPM-4.25.1](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXLPM-4.25.1)
+* [FidelityFXLPM-4.26](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXLPM-4.26)
 
 There is 1 branches of the FidelityFX SPD plugin:
 * [FidelityFXSPD-4.25.3](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXSPD-4.25.3)
+* [FidelityFXSPD-4.26](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXSPD-4.26)
+
+There is 1 branches of the FidelityFX VRS plugin:
+* [FidelityFXVRS-4.26](https://github.com/GPUOpenSoftware/UnrealEngine/tree/FidelityFXVRS-4.26)
 
 #### Instructions
 * To access the fork and its various branches, you will first need access to [Epic's Unreal Engine repo](https://github.com/EpicGames/UnrealEngine).
